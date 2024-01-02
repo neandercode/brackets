@@ -1,3 +1,5 @@
+alert('Greetings from Uncle Sam');
+
 function myMoney() {
   let numbers = document.getElementById("income").value;
   let text;
